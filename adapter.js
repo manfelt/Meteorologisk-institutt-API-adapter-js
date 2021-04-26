@@ -30,15 +30,6 @@ hentGeoKoordinater('oslo');
 console.log(koordinater);
 
 
-document.write("appCodeName: " + navigator.appCodeName + "<br><br>");
-document.write("product: " + navigator.product + "<br><br>");
-document.write("appVersion: " + navigator.appVersion + "<br><br>");
-document.write("userAgent: " + navigator.userAgent + "<br><br>");
-document.write("platform: " + navigator.platform + "<br><br>");
-document.write("language: " + navigator.language + "<br><br>");
-document.write("onLine: " + navigator.onLine + "<br><br>");
-
-
 /* [
     {
       "breddegrad": "10.74",
